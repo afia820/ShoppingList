@@ -1,7 +1,6 @@
 /* general styles */
 * {
   box-sizing: border-box;
-  font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 html { 
@@ -41,7 +40,6 @@ margin-top: 2.18em;
 
 /* reset list */
 .resetContainer {
-  /* font-family: 'ZCOOL KuaiLe', cursive; */
   font-weight: 400;
   font-size: 0.18em;
   left: 41.4em;
